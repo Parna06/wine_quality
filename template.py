@@ -21,7 +21,7 @@ listof_files = [
     "params.yaml",
     "schema.yaml",
     "main.py",
-    "app.py"
+    "app.py",
     "requirements.txt",
     "setup.py",
     "research/trails.ipynb",
